@@ -1,0 +1,22 @@
+{
+  "name": "rng",
+  "version": "1.0.0",
+  "description": "Random numbers generator.",
+  "main": "index.js",
+  "engines": {
+    "node": ">= 0.8"
+  },
+  "homepage": "https://github.com/stream-utils/unpipe#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stream-utils/unpipe.git"
+  },
+  "scripts": {
+    "start": "node server"
+  },
+  "author": {
+    "name": "Prateek Jain",
+    "email": "jain22719@gmail.com"
+  },
+  "license": "ISC"
+}
